@@ -1,5 +1,6 @@
 # Hi, I'm Divya Raval :)
-I am a Computer Science student at Nirma University with a minor in Cybersecurity.<br>I enjoy exploring tech through building solutions.
+Passionate about algorithms, AI, blockchain systems, and building secure, intelligent software.
+
 
 
 ## Socials:
