@@ -1,4 +1,4 @@
-# Hi, I'm Divya Raval :)
+# Hi lol , I'm Divya Raval :)
 Passionate about algorithms, AI, blockchain systems, and building secure, intelligent software.
 
 
