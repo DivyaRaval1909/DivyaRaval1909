@@ -1,5 +1,5 @@
 # Hi, I'm Divya Raval :)
-Passionate about algorithms, AI, blockchain systems, and building secure, intelligent software.
+Passionate about AI, blockchain, algorithms, and open source. If you hire me, it's your win. If you don't, it's a win for your QA team. 
 
 
 
